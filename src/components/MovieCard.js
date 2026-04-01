@@ -1,5 +1,3 @@
-// src/components/MovieCard.js - Single movie tile shown in search results
-
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
 import { useFavorites } from '../context/FavoritesContext';
