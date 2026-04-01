@@ -1,5 +1,3 @@
-// src/components/SearchBar.js - Input box for searching movies
-
 import React from 'react';
 
 function SearchBar({ query, setQuery }) {
