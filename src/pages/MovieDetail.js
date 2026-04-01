@@ -1,5 +1,3 @@
-// src/pages/MovieDetail.js - Full detail page for a single movie
-
 import React, { useState, useEffect } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import { useFavorites } from '../context/FavoritesContext';
