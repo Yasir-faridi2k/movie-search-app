@@ -1,5 +1,3 @@
-// src/pages/Home.js - Main page with search bar and movie results grid
-
 import React, { useState } from 'react';
 import SearchBar from '../components/SearchBar';
 import MovieCard from '../components/MovieCard';
