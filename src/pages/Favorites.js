@@ -1,5 +1,3 @@
-// src/pages/Favorites.js - Page showing all saved favorite movies
-
 import React from 'react';
 import { useFavorites } from '../context/FavoritesContext';
 import MovieCard from '../components/MovieCard';
