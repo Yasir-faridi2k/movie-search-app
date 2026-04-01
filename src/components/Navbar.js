@@ -1,5 +1,3 @@
-// src/components/Navbar.js - Top navigation bar with links
-
 import React from 'react';
 import { Link } from 'react-router-dom';
 
