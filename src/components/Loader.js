@@ -1,5 +1,3 @@
-// src/components/Loader.js - Loading spinner shown while fetching data
-
 import React from 'react';
 
 function Loader() {

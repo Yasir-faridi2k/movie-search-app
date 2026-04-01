@@ -1,5 +1,3 @@
-// src/context/FavoritesContext.js - Global state for saved favorite movies
-
 import React, { createContext, useContext, useState, useEffect } from 'react';
 
 const FavoritesContext = createContext();

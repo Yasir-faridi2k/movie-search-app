@@ -1,5 +1,3 @@
-// src/hooks/useMovieSearch.js - Custom hook to fetch movies from OMDB API
-
 import { useState, useEffect } from 'react';
 
 const API_KEY = '4b3d5611'; 
